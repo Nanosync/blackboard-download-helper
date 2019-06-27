@@ -10,7 +10,7 @@
 // @downloadURL  https://github.com/nanosync/blackboad-download-helper/raw/master/BlackboardDownloadHelper.user.js
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
 // @match        https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp*
-// @match        https://*
+// @match        https://*/listContent.jsp*
 // @run-at       document-idle
 // @grant        GM_setValue
 // @grant        GM_getValue
