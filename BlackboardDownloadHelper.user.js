@@ -7,7 +7,7 @@
 // @license      GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
 // @copyright    Copyright (C) 2019, by Nanosync
 // @updateURL    https://github.com/nanosync/blackboard-download-helper/raw/master/BlackboardDownloadHelper.user.js
-// @downloadURL  https://github.com/nanosync/blackboad-download-helper/raw/master/BlackboardDownloadHelper.user.js
+// @downloadURL  https://github.com/nanosync/blackboard-download-helper/raw/master/BlackboardDownloadHelper.user.js
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
 // @match        https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp*
 // @match        https://*/listContent.jsp*
